@@ -6,8 +6,7 @@ This is a **Spotify Clone** built using **HTML, CSS, and JavaScript**. It mimics
 ---
 
 ## 📌 Features
-✅ **Play/Pause Songs**  
-✅ **Next/Previous Track Navigation**    
+✅ **Play/Pause Songs**   
 ✅ **Dynamic Playlist**  
 ✅ **Responsive UI** (Desktop)  
 
